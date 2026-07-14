@@ -1,0 +1,281 @@
+2026-07-09 02:24:46,100 | INFO | LGG: 117 records downloaded.
+2026-07-09 02:25:12,346 | WARNING | PVG | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=PVG&limit=100&offset=1400
+2026-07-09 02:25:12,347 | WARNING | FRA | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=FRA&limit=100&offset=1800
+2026-07-09 02:25:12,877 | WARNING | HKG | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=HKG&limit=100&offset=1800
+2026-07-09 02:25:13,294 | WARNING | AMS | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=AMS&limit=100&offset=2200
+2026-07-09 02:25:13,663 | WARNING | SIN | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=SIN&limit=100&offset=1500
+2026-07-09 02:25:14,297 | WARNING | HKG | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=HKG&limit=100&offset=1800
+2026-07-09 02:25:14,383 | WARNING | FRA | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=FRA&limit=100&offset=1800
+2026-07-09 02:25:14,624 | WARNING | PVG | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=PVG&limit=100&offset=1400
+2026-07-09 02:25:15,188 | WARNING | AMS | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=AMS&limit=100&offset=2200
+2026-07-09 02:25:15,883 | WARNING | SIN | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=SIN&limit=100&offset=1500
+2026-07-09 02:25:16,702 | WARNING | HKG | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=HKG&limit=100&offset=1800
+2026-07-09 02:25:17,440 | WARNING | FRA | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=FRA&limit=100&offset=1800
+2026-07-09 02:25:17,736 | WARNING | MEM | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=MEM&limit=100&offset=0
+2026-07-09 02:25:17,890 | WARNING | PVG | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=PVG&limit=100&offset=1400
+2026-07-09 02:25:18,046 | WARNING | AMS | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=AMS&limit=100&offset=2200
+2026-07-09 02:25:18,146 | WARNING | ANC | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=ANC&limit=100&offset=0
+2026-07-09 02:25:18,684 | WARNING | DXB | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DXB&limit=100&offset=0
+2026-07-09 02:25:18,876 | WARNING | DOH | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DOH&limit=100&offset=0
+2026-07-09 02:25:19,116 | WARNING | SIN | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=SIN&limit=100&offset=1500
+2026-07-09 02:25:19,694 | WARNING | MEM | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=MEM&limit=100&offset=0
+2026-07-09 02:25:20,416 | WARNING | DXB | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DXB&limit=100&offset=0
+2026-07-09 02:25:20,738 | WARNING | DOH | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DOH&limit=100&offset=0
+2026-07-09 02:25:20,972 | WARNING | ANC | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=ANC&limit=100&offset=0
+2026-07-09 02:25:22,653 | WARNING | MEM | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=MEM&limit=100&offset=0
+2026-07-09 02:25:23,142 | WARNING | DXB | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DXB&limit=100&offset=0
+2026-07-09 02:25:23,564 | WARNING | DOH | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DOH&limit=100&offset=0
+2026-07-09 02:25:23,620 | WARNING | ANC | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=ANC&limit=100&offset=0
+2026-07-09 02:25:25,456 | WARNING | AMS | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=AMS&limit=100&offset=0
+2026-07-09 02:25:25,626 | WARNING | FRA | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=FRA&limit=100&offset=0
+2026-07-09 02:25:25,713 | WARNING | HKG | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=HKG&limit=100&offset=0
+2026-07-09 02:25:25,828 | WARNING | LGG | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=LGG&limit=100&offset=0
+2026-07-09 02:25:26,025 | WARNING | PVG | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=PVG&limit=100&offset=0
+2026-07-09 02:25:27,068 | WARNING | AMS | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=AMS&limit=100&offset=0
+2026-07-09 02:25:27,552 | WARNING | FRA | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=FRA&limit=100&offset=0
+2026-07-09 02:25:27,770 | WARNING | HKG | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=HKG&limit=100&offset=0
+2026-07-09 02:25:27,777 | WARNING | LGG | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=LGG&limit=100&offset=0
+2026-07-09 02:25:28,238 | WARNING | PVG | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=PVG&limit=100&offset=0
+2026-07-09 02:25:29,687 | WARNING | AMS | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=AMS&limit=100&offset=0
+2026-07-09 02:25:30,610 | WARNING | FRA | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=FRA&limit=100&offset=0
+2026-07-09 02:25:30,896 | WARNING | HKG | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=HKG&limit=100&offset=0
+2026-07-09 02:25:31,086 | WARNING | SIN | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=SIN&limit=100&offset=0
+2026-07-09 02:25:31,209 | WARNING | LGG | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=LGG&limit=100&offset=0
+2026-07-09 02:25:31,570 | WARNING | ANC | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=ANC&limit=100&offset=0
+2026-07-09 02:25:31,572 | WARNING | PVG | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=PVG&limit=100&offset=0
+2026-07-09 02:25:31,896 | WARNING | MEM | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=MEM&limit=100&offset=0
+2026-07-09 02:25:32,074 | WARNING | DXB | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DXB&limit=100&offset=0
+2026-07-09 02:25:32,305 | WARNING | DOH | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DOH&limit=100&offset=0
+2026-07-09 02:25:33,258 | WARNING | ANC | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=ANC&limit=100&offset=0
+2026-07-09 02:25:33,394 | WARNING | SIN | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=SIN&limit=100&offset=0
+2026-07-09 02:25:33,882 | WARNING | DXB | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DXB&limit=100&offset=0
+2026-07-09 02:25:33,972 | WARNING | MEM | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=MEM&limit=100&offset=0
+2026-07-09 02:25:34,034 | WARNING | DOH | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DOH&limit=100&offset=0
+2026-07-09 02:25:35,968 | WARNING | ANC | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=ANC&limit=100&offset=0
+2026-07-09 02:25:36,586 | WARNING | DXB | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DXB&limit=100&offset=0
+2026-07-09 02:25:36,586 | WARNING | SIN | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=SIN&limit=100&offset=0
+2026-07-09 02:25:36,797 | WARNING | DOH | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DOH&limit=100&offset=0
+2026-07-09 02:25:36,974 | WARNING | MEM | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=MEM&limit=100&offset=0
+2026-07-11 04:07:23,021 | WARNING | AMS | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=AMS&limit=100&offset=0
+2026-07-11 04:07:23,224 | WARNING | HKG | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=HKG&limit=100&offset=0
+2026-07-11 04:07:23,351 | WARNING | LGG | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=LGG&limit=100&offset=0
+2026-07-11 04:07:23,376 | WARNING | FRA | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=FRA&limit=100&offset=0
+2026-07-11 04:07:23,631 | WARNING | PVG | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=PVG&limit=100&offset=0
+2026-07-11 04:07:24,743 | WARNING | AMS | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=AMS&limit=100&offset=0
+2026-07-11 04:07:25,069 | WARNING | HKG | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=HKG&limit=100&offset=0
+2026-07-11 04:07:25,473 | WARNING | LGG | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=LGG&limit=100&offset=0
+2026-07-11 04:07:25,480 | WARNING | FRA | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=FRA&limit=100&offset=0
+2026-07-11 04:07:25,864 | WARNING | PVG | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=PVG&limit=100&offset=0
+2026-07-11 04:07:27,485 | WARNING | AMS | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=AMS&limit=100&offset=0
+2026-07-11 04:07:28,025 | WARNING | HKG | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=HKG&limit=100&offset=0
+2026-07-11 04:07:28,454 | WARNING | FRA | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=FRA&limit=100&offset=0
+2026-07-11 04:07:28,573 | WARNING | LGG | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=LGG&limit=100&offset=0
+2026-07-11 04:07:28,721 | WARNING | SIN | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=SIN&limit=100&offset=0
+2026-07-11 04:07:28,981 | WARNING | PVG | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=PVG&limit=100&offset=0
+2026-07-11 04:07:29,011 | WARNING | MEM | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=MEM&limit=100&offset=0
+2026-07-11 04:07:29,220 | WARNING | ANC | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=ANC&limit=100&offset=0
+2026-07-11 04:07:29,519 | WARNING | DXB | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DXB&limit=100&offset=0
+2026-07-11 04:07:29,865 | WARNING | DOH | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DOH&limit=100&offset=0
+2026-07-11 04:07:30,996 | WARNING | SIN | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=SIN&limit=100&offset=0
+2026-07-11 04:07:30,996 | WARNING | ANC | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=ANC&limit=100&offset=0
+2026-07-11 04:07:31,014 | WARNING | MEM | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=MEM&limit=100&offset=0
+2026-07-11 04:07:31,191 | WARNING | DXB | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DXB&limit=100&offset=0
+2026-07-11 04:07:31,758 | WARNING | DOH | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DOH&limit=100&offset=0
+2026-07-11 04:07:33,718 | WARNING | ANC | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=ANC&limit=100&offset=0
+2026-07-11 04:07:33,877 | WARNING | DXB | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DXB&limit=100&offset=0
+2026-07-11 04:07:34,044 | WARNING | MEM | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=MEM&limit=100&offset=0
+2026-07-11 04:07:34,127 | WARNING | SIN | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=SIN&limit=100&offset=0
+2026-07-11 04:07:34,615 | WARNING | DOH | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DOH&limit=100&offset=0
+2026-07-11 10:53:38,858 | WARNING | AMS | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=AMS&limit=100&offset=0
+2026-07-11 10:53:40,696 | WARNING | AMS | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=AMS&limit=100&offset=0
+2026-07-11 10:53:43,294 | WARNING | AMS | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=AMS&limit=100&offset=0
+2026-07-11 10:53:44,038 | WARNING | FRA | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=FRA&limit=100&offset=0
+2026-07-11 10:53:45,996 | WARNING | FRA | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=FRA&limit=100&offset=0
+2026-07-11 10:53:48,978 | WARNING | FRA | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=FRA&limit=100&offset=0
+2026-07-11 10:53:50,069 | WARNING | LGG | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=LGG&limit=100&offset=0
+2026-07-11 10:53:52,226 | WARNING | LGG | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=LGG&limit=100&offset=0
+2026-07-11 10:53:55,467 | WARNING | LGG | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=LGG&limit=100&offset=0
+2026-07-11 10:53:56,493 | WARNING | HKG | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=HKG&limit=100&offset=0
+2026-07-11 10:53:58,351 | WARNING | HKG | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=HKG&limit=100&offset=0
+2026-07-11 10:54:01,223 | WARNING | HKG | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=HKG&limit=100&offset=0
+2026-07-11 10:54:02,642 | WARNING | PVG | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=PVG&limit=100&offset=0
+2026-07-11 10:54:05,001 | WARNING | PVG | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=PVG&limit=100&offset=0
+2026-07-11 10:54:08,488 | WARNING | PVG | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=PVG&limit=100&offset=0
+2026-07-11 10:54:09,647 | WARNING | SIN | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=SIN&limit=100&offset=0
+2026-07-11 10:54:11,944 | WARNING | SIN | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=SIN&limit=100&offset=0
+2026-07-11 10:54:15,274 | WARNING | SIN | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=SIN&limit=100&offset=0
+2026-07-11 10:54:16,270 | WARNING | MEM | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=MEM&limit=100&offset=0
+2026-07-11 10:54:18,397 | WARNING | MEM | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=MEM&limit=100&offset=0
+2026-07-11 10:54:21,447 | WARNING | MEM | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=MEM&limit=100&offset=0
+2026-07-11 10:54:22,203 | WARNING | ANC | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=ANC&limit=100&offset=0
+2026-07-11 10:54:24,134 | WARNING | ANC | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=ANC&limit=100&offset=0
+2026-07-11 10:54:26,871 | WARNING | ANC | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=ANC&limit=100&offset=0
+2026-07-11 10:54:27,687 | WARNING | DXB | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DXB&limit=100&offset=0
+2026-07-11 10:54:29,539 | WARNING | DXB | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DXB&limit=100&offset=0
+2026-07-11 10:54:32,302 | WARNING | DXB | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DXB&limit=100&offset=0
+2026-07-11 10:54:33,130 | WARNING | DOH | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DOH&limit=100&offset=0
+2026-07-11 10:54:34,940 | WARNING | DOH | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DOH&limit=100&offset=0
+2026-07-11 10:54:37,721 | WARNING | DOH | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DOH&limit=100&offset=0
+2026-07-11 10:59:48,978 | WARNING | AMS | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=AMS&limit=100&offset=0
+2026-07-11 10:59:50,664 | WARNING | AMS | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=AMS&limit=100&offset=0
+2026-07-11 10:59:53,361 | WARNING | AMS | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=AMS&limit=100&offset=0
+2026-07-11 10:59:54,200 | WARNING | FRA | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=FRA&limit=100&offset=0
+2026-07-11 10:59:56,191 | WARNING | FRA | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=FRA&limit=100&offset=0
+2026-07-11 10:59:59,027 | WARNING | FRA | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=FRA&limit=100&offset=0
+2026-07-11 11:00:00,301 | WARNING | LGG | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=LGG&limit=100&offset=0
+2026-07-11 11:00:03,476 | WARNING | LGG | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=LGG&limit=100&offset=0
+2026-07-11 11:00:07,355 | WARNING | LGG | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=LGG&limit=100&offset=0
+2026-07-11 11:00:08,739 | WARNING | HKG | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=HKG&limit=100&offset=0
+2026-07-11 11:00:11,032 | WARNING | HKG | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=HKG&limit=100&offset=0
+2026-07-11 11:00:14,341 | WARNING | HKG | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=HKG&limit=100&offset=0
+2026-07-11 11:00:15,870 | WARNING | PVG | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=PVG&limit=100&offset=0
+2026-07-11 11:00:18,575 | WARNING | PVG | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=PVG&limit=100&offset=0
+2026-07-11 11:00:21,974 | WARNING | PVG | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=PVG&limit=100&offset=0
+2026-07-11 11:00:23,595 | WARNING | SIN | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=SIN&limit=100&offset=0
+2026-07-11 11:00:25,902 | WARNING | SIN | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=SIN&limit=100&offset=0
+2026-07-11 11:00:29,144 | WARNING | SIN | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=SIN&limit=100&offset=0
+2026-07-11 11:00:30,154 | WARNING | MEM | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=MEM&limit=100&offset=0
+2026-07-11 11:00:32,274 | WARNING | MEM | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=MEM&limit=100&offset=0
+2026-07-11 11:00:35,413 | WARNING | MEM | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=MEM&limit=100&offset=0
+2026-07-11 11:00:36,261 | WARNING | ANC | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=ANC&limit=100&offset=0
+2026-07-11 11:00:38,085 | WARNING | ANC | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=ANC&limit=100&offset=0
+2026-07-11 11:00:40,970 | WARNING | ANC | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=ANC&limit=100&offset=0
+2026-07-11 11:00:41,909 | WARNING | DXB | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DXB&limit=100&offset=0
+2026-07-11 11:00:43,710 | WARNING | DXB | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DXB&limit=100&offset=0
+2026-07-11 11:00:46,642 | WARNING | DXB | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DXB&limit=100&offset=0
+2026-07-11 11:00:47,427 | WARNING | DOH | retry 1 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DOH&limit=100&offset=0
+2026-07-11 11:00:49,198 | WARNING | DOH | retry 2 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DOH&limit=100&offset=0
+2026-07-11 11:00:51,962 | WARNING | DOH | retry 3 | 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=3cc8340e1bf038df78ec6a42a3b78ac3&dep_iata=DOH&limit=100&offset=0
+2026-07-11 22:55:05,357 | INFO | Starting Flight Extraction...
+2026-07-11 22:55:05,357 | INFO | Downloading AMS
+2026-07-11 22:55:06,226 | ERROR | AMS: 400 Client Error: Bad Request for url: https://aerodatabox.p.rapidapi.com/flights/airports/iata/AMS/2026-07-12T00:00/2026-07-12T23:59?withLeg=true&direction=Departure&withCancelled=false&withCodeshared=false&withCargo=true&withPrivate=false&withLocation=false
+2026-07-11 22:55:07,228 | INFO | Downloading FRA
+2026-07-11 22:55:07,488 | ERROR | FRA: 400 Client Error: Bad Request for url: https://aerodatabox.p.rapidapi.com/flights/airports/iata/FRA/2026-07-12T00:00/2026-07-12T23:59?withLeg=true&direction=Departure&withCancelled=false&withCodeshared=false&withCargo=true&withPrivate=false&withLocation=false
+2026-07-11 22:55:08,490 | INFO | Downloading LGG
+2026-07-11 22:55:08,677 | ERROR | LGG: 429 Client Error: Too Many Requests for url: https://aerodatabox.p.rapidapi.com/flights/airports/iata/LGG/2026-07-12T00:00/2026-07-12T23:59?withLeg=true&direction=Departure&withCancelled=false&withCodeshared=false&withCargo=true&withPrivate=false&withLocation=false
+2026-07-11 22:55:09,680 | INFO | Downloading HKG
+2026-07-11 22:55:09,937 | ERROR | HKG: 400 Client Error: Bad Request for url: https://aerodatabox.p.rapidapi.com/flights/airports/iata/HKG/2026-07-12T00:00/2026-07-12T23:59?withLeg=true&direction=Departure&withCancelled=false&withCodeshared=false&withCargo=true&withPrivate=false&withLocation=false
+2026-07-11 22:55:10,943 | INFO | Downloading PVG
+2026-07-11 22:55:11,179 | ERROR | PVG: 400 Client Error: Bad Request for url: https://aerodatabox.p.rapidapi.com/flights/airports/iata/PVG/2026-07-12T00:00/2026-07-12T23:59?withLeg=true&direction=Departure&withCancelled=false&withCodeshared=false&withCargo=true&withPrivate=false&withLocation=false
+2026-07-11 22:55:12,181 | INFO | Downloading SIN
+2026-07-11 22:55:12,413 | ERROR | SIN: 400 Client Error: Bad Request for url: https://aerodatabox.p.rapidapi.com/flights/airports/iata/SIN/2026-07-12T00:00/2026-07-12T23:59?withLeg=true&direction=Departure&withCancelled=false&withCodeshared=false&withCargo=true&withPrivate=false&withLocation=false
+2026-07-11 22:55:13,415 | INFO | Downloading MEM
+2026-07-11 22:55:13,592 | ERROR | MEM: 429 Client Error: Too Many Requests for url: https://aerodatabox.p.rapidapi.com/flights/airports/iata/MEM/2026-07-12T00:00/2026-07-12T23:59?withLeg=true&direction=Departure&withCancelled=false&withCodeshared=false&withCargo=true&withPrivate=false&withLocation=false
+2026-07-11 22:55:14,594 | INFO | Downloading ANC
+2026-07-11 22:55:14,839 | ERROR | ANC: 400 Client Error: Bad Request for url: https://aerodatabox.p.rapidapi.com/flights/airports/iata/ANC/2026-07-12T00:00/2026-07-12T23:59?withLeg=true&direction=Departure&withCancelled=false&withCodeshared=false&withCargo=true&withPrivate=false&withLocation=false
+2026-07-11 22:55:15,841 | INFO | Downloading DXB
+2026-07-11 22:55:16,082 | ERROR | DXB: 400 Client Error: Bad Request for url: https://aerodatabox.p.rapidapi.com/flights/airports/iata/DXB/2026-07-12T00:00/2026-07-12T23:59?withLeg=true&direction=Departure&withCancelled=false&withCodeshared=false&withCargo=true&withPrivate=false&withLocation=false
+2026-07-11 22:55:17,085 | INFO | Downloading DOH
+2026-07-11 22:55:17,312 | ERROR | DOH: 400 Client Error: Bad Request for url: https://aerodatabox.p.rapidapi.com/flights/airports/iata/DOH/2026-07-12T00:00/2026-07-12T23:59?withLeg=true&direction=Departure&withCancelled=false&withCodeshared=false&withCargo=true&withPrivate=false&withLocation=false
+2026-07-11 23:08:34,386 | INFO | Starting Flight Extraction...
+2026-07-11 23:08:34,386 | INFO | Downloading AMS
+2026-07-11 23:08:35,175 | ERROR | AMS: 400 Client Error: Bad Request for url: https://aerodatabox.p.rapidapi.com/flights/airports/iata/AMS/2026-07-12T00:00/2026-07-12T23:59?withLeg=true&direction=Departure&withCancelled=false&withCodeshared=false&withCargo=true&withPrivate=false&withLocation=false
+2026-07-11 23:08:36,178 | INFO | Flight Extraction Finished
+2026-07-11 23:08:36,179 | INFO | Success: 0
+2026-07-11 23:08:36,179 | INFO | Failed: 1
+2026-07-11 23:08:36,179 | INFO | Total Flights: 0
+2026-07-11 23:30:18,673 | INFO | Starting Flight Extraction...
+2026-07-11 23:30:18,673 | INFO | Downloading AMS
+2026-07-11 23:30:21,466 | ERROR | AMS: 'BronzeLoader' object has no attribute 'save_json'
+2026-07-11 23:30:21,468 | INFO | Flight Extraction Finished
+2026-07-11 23:30:21,468 | INFO | Success: 0
+2026-07-11 23:30:21,468 | INFO | Failed: 1
+2026-07-11 23:30:21,468 | INFO | Total Flights: 0
+2026-07-11 23:42:27,954 | INFO | Starting Flight Extraction...
+2026-07-11 23:42:27,954 | INFO | Downloading AMS
+2026-07-11 23:42:31,895 | INFO | AMS: 668 flights
+2026-07-11 23:42:31,897 | INFO | Flight Extraction Finished
+2026-07-11 23:42:31,897 | INFO | Success: 1
+2026-07-11 23:42:31,898 | INFO | Failed: 0
+2026-07-11 23:42:31,902 | INFO | Total Flights: 668
+2026-07-12 03:47:40,050 | INFO | Starting Flight Extraction...
+2026-07-12 03:47:40,050 | INFO | Downloading AMS
+2026-07-12 03:47:44,656 | INFO | AMS: 696 flights
+2026-07-12 03:47:44,657 | INFO | Flight Extraction Finished
+2026-07-12 03:47:44,658 | INFO | Success: 1
+2026-07-12 03:47:44,658 | INFO | Failed: 0
+2026-07-12 03:47:44,658 | INFO | Total Flights: 696
+2026-07-13 00:12:51,360 | INFO | Starting Flight Extraction...
+2026-07-13 00:12:51,361 | INFO | Downloading AMS
+2026-07-13 00:12:52,895 | ERROR | AMS: 429 Client Error: Too Many Requests for url: https://aerodatabox.p.rapidapi.com/flights/airports/iata/AMS/2026-07-12T12:00/2026-07-12T23:59?withLeg=true&direction=Departure&withCancelled=false&withCodeshared=false&withCargo=true&withPrivate=false&withLocation=false
+2026-07-13 00:12:52,897 | INFO | Downloading FRA
+2026-07-13 00:12:53,038 | ERROR | FRA: 429 Client Error: Too Many Requests for url: https://aerodatabox.p.rapidapi.com/flights/airports/iata/FRA/2026-07-12T00:00/2026-07-12T11:59?withLeg=true&direction=Departure&withCancelled=false&withCodeshared=false&withCargo=true&withPrivate=false&withLocation=false
+2026-07-13 00:12:53,040 | INFO | Downloading LGG
+2026-07-13 00:12:55,473 | INFO | LGG: 18 flights
+2026-07-13 00:12:55,473 | INFO | Downloading HKG
+2026-07-13 00:12:57,034 | ERROR | HKG: 429 Client Error: Too Many Requests for url: https://aerodatabox.p.rapidapi.com/flights/airports/iata/HKG/2026-07-12T12:00/2026-07-12T23:59?withLeg=true&direction=Departure&withCancelled=false&withCodeshared=false&withCargo=true&withPrivate=false&withLocation=false
+2026-07-13 00:12:57,036 | INFO | Downloading PVG
+2026-07-13 00:12:59,638 | INFO | PVG: 631 flights
+2026-07-13 00:12:59,638 | INFO | Downloading SIN
+2026-07-13 00:13:02,381 | INFO | SIN: 521 flights
+2026-07-13 00:13:02,381 | INFO | Downloading MEM
+2026-07-13 00:13:04,864 | INFO | MEM: 147 flights
+2026-07-13 00:13:04,864 | INFO | Downloading ANC
+2026-07-13 00:13:05,020 | ERROR | ANC: 429 Client Error: Too Many Requests for url: https://aerodatabox.p.rapidapi.com/flights/airports/iata/ANC/2026-07-12T00:00/2026-07-12T11:59?withLeg=true&direction=Departure&withCancelled=false&withCodeshared=false&withCargo=true&withPrivate=false&withLocation=false
+2026-07-13 00:13:05,021 | INFO | Downloading DXB
+2026-07-13 00:13:07,702 | INFO | DXB: 497 flights
+2026-07-13 00:13:07,703 | INFO | Downloading DOH
+2026-07-13 00:13:10,296 | INFO | DOH: 308 flights
+2026-07-13 00:13:10,298 | INFO | Flight Extraction Finished
+2026-07-13 00:13:10,298 | INFO | Success: 6
+2026-07-13 00:13:10,298 | INFO | Failed: 4
+2026-07-13 00:13:10,299 | INFO | Total Flights: 2122
+2026-07-13 01:17:24,333 | INFO | Starting Flight Extraction...
+2026-07-13 01:17:24,334 | INFO | Downloading AMS
+2026-07-13 01:17:27,197 | INFO | AMS: 703 flights
+2026-07-13 01:17:27,197 | INFO | Downloading FRA
+2026-07-13 01:17:30,011 | INFO | FRA: 673 flights
+2026-07-13 01:17:30,013 | INFO | Flight Extraction Finished
+2026-07-13 01:17:30,013 | INFO | Success: 2
+2026-07-13 01:17:30,014 | INFO | Failed: 0
+2026-07-13 01:17:30,014 | INFO | Total Flights: 1376
+2026-07-13 01:26:11,288 | INFO | Starting Flight Extraction...
+2026-07-13 01:26:11,288 | INFO | Downloading AMS
+2026-07-13 01:26:14,007 | INFO | AMS: 703 flights
+2026-07-13 01:26:14,008 | INFO | Downloading FRA
+2026-07-13 01:26:16,871 | INFO | FRA: 673 flights
+2026-07-13 01:26:16,872 | INFO | Flight Extraction Finished
+2026-07-13 01:26:16,873 | INFO | Success: 2
+2026-07-13 01:26:16,873 | INFO | Failed: 0
+2026-07-13 01:26:16,873 | INFO | Total Flights: 1376
+2026-07-13 01:30:25,341 | INFO | Starting Flight Extraction...
+2026-07-13 01:30:25,342 | INFO | Downloading AMS
+2026-07-13 01:30:28,066 | INFO | AMS: 703 flights
+2026-07-13 01:30:28,066 | INFO | Downloading FRA
+2026-07-13 01:30:30,716 | INFO | FRA: 673 flights
+2026-07-13 01:30:30,717 | INFO | Flight Extraction Finished
+2026-07-13 01:30:30,718 | INFO | Success: 2
+2026-07-13 01:30:30,718 | INFO | Failed: 0
+2026-07-13 01:30:30,718 | INFO | Total Flights: 1376
+2026-07-13 01:48:57,049 | INFO | Starting Flight Extraction...
+2026-07-13 01:48:57,050 | INFO | Downloading AMS
+2026-07-13 01:48:59,895 | INFO | AMS: 703 flights
+2026-07-13 01:48:59,895 | INFO | Downloading FRA
+2026-07-13 01:49:02,646 | INFO | FRA: 673 flights
+2026-07-13 01:49:02,648 | INFO | Flight Extraction Finished
+2026-07-13 01:49:02,648 | INFO | Success: 2
+2026-07-13 01:49:02,649 | INFO | Failed: 0
+2026-07-13 01:49:02,649 | INFO | Total Flights: 1376
+2026-07-13 02:00:15,319 | INFO | Starting Flight Extraction...
+2026-07-13 02:00:15,319 | INFO | Downloading AMS
+2026-07-13 02:00:17,133 | ERROR | AMS: 429 Client Error: Too Many Requests for url: https://aerodatabox.p.rapidapi.com/flights/airports/iata/AMS/2026-07-13T12:00/2026-07-13T23:59?withLeg=true&direction=Departure&withCancelled=false&withCodeshared=false&withCargo=true&withPrivate=false&withLocation=false
+2026-07-13 02:00:17,137 | INFO | Downloading FRA
+2026-07-13 02:00:19,927 | INFO | FRA: 642 flights
+2026-07-13 02:00:19,929 | INFO | Flight Extraction Finished
+2026-07-13 02:00:19,929 | INFO | Success: 1
+2026-07-13 02:00:19,929 | INFO | Failed: 1
+2026-07-13 02:00:19,929 | INFO | Total Flights: 642
+2026-07-13 02:08:20,980 | INFO | Starting Flight Extraction...
+2026-07-13 02:08:20,981 | INFO | Downloading AMS
+2026-07-13 02:08:23,768 | INFO | AMS: 706 flights
+2026-07-13 02:08:23,769 | INFO | Flight Extraction Finished
+2026-07-13 02:08:23,769 | INFO | Success: 1
+2026-07-13 02:08:23,770 | INFO | Failed: 0
+2026-07-13 02:08:23,770 | INFO | Total Flights: 706
+2026-07-13 02:12:24,159 | INFO | Starting Flight Extraction...
+2026-07-13 02:12:24,160 | INFO | Downloading AMS
+2026-07-13 02:12:26,930 | INFO | AMS: 706 flights
+2026-07-13 02:12:26,931 | INFO | Flight Extraction Finished
+2026-07-13 02:12:26,932 | INFO | Success: 1
+2026-07-13 02:12:26,932 | INFO | Failed: 0
+2026-07-13 02:12:26,932 | INFO | Total Flights: 706
